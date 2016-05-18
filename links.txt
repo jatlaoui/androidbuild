@@ -1,0 +1,15 @@
+name="Addon Installer"
+url="http://fusion.tvaddons.ag/start-here/plugin.program.addoninstaller-1.2.0.zip"
+img="http://tribeca.tvaddons.ag/tools/wizard/thumbs/windows.jpg"
+fanart="http://tribeca.tvaddons.ag/tools/wizard/thumbs/fanart.jpg"
+description="Configurer ton appliction avec des extensions variables avec un seul click!!"
+ATTENTION:toute vos donnees personelles du configuration seron perdu!!!!
+type="addon"
+
+name="une toute merveille arabe francais "
+url="https://archive.org/download/Kodiraouf/Kodiraouf.zip"
+img="http://tribeca.tvaddons.ag/tools/wizard/thumbs/windows.jpg"
+fanart="http://directinfo.webmanagercenter.com/wp-content/uploads/2015/05/medenine.jpg"
+description="Configurer ton appliction avec des extensions variables avec un seul click!!
+ATTENTION:toute vos donnees personelles du configuration seron perdu!!!!
+type="main"
