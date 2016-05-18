@@ -1,0 +1,6 @@
+shortcut="HomeVideosButton1,plugin.video.AK-47"
+shortcut="HomeVideosButton2,plugin.video.akoam"
+shortcut="HomeVideosButton3,plugin.video.arabic"
+shortcut="HomeVideosButton4,plugin.video.exodus"
+shortcut="HomeVideosButton5,plugin.video.mdfubar"
+shortcut="HomeMusicButton1,plugin.audio.sars-master"
