@@ -1,1 +1,1 @@
-https://github.com/jatla00/androidbuild/blob/master/kodi.zip
+https://github.com/jatla00/androidbuild/raw/master/kodi.zip
